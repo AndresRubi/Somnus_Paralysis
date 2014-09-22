@@ -1,0 +1,12 @@
+Load=[Title]
+
+Load=[Position][Axis][Font][Animation]
+[0 0][2][blade][Fade]
+
+Load=[Item]
+[New Game]
+[Load Game]
+[Options]
+[Credits]
+
+EndLoad=[Title]

@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1411324230 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /gamescreen.cpp
+	"gamescreen.h"
+
+1411328792 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /gamescreen.h
+	<allegro5/allegro.h>
+	"inputmanager.h"
+
+1411346189 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /main.cpp
+	<iostream>
+	"screenmanager.h"
+	"inputmanager.h"
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<vector>
+	<string>
+
+1411324372 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /screenmanager.h
+	<iostream>
+	<string>
+	"gamescreen.h"
+	"splashscreen.h"
+	"titlescreen.h"
+	"fadeanimation.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1411332709 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /splashscreen.h
+	"filemanager.h"
+	"gamescreen.h"
+	"inputmanager.h"
+	"screenmanager.h"
+	"fadeanimation.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1411333024 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /splashscreen.cpp
+	"splashscreen.h"
+
+1411343058 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /screenmanager.cpp
+	"screenmanager.h"
+
+1411315957 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /inputmanager.cpp
+	"inputmanager.h"
+
+1411314376 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /inputmanager.h
+	<allegro5/allegro.h>
+	<allegro5/keyboard.h>
+	<vector>
+	<string>
+
+1411342773 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /titlescreen.h
+	"screenmanager.h"
+	"inputmanager.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menumanager.h"
+
+1411345655 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /titlescreen.cpp
+	"titlescreen.h"
+
+1411346189 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /animation.cpp
+	"animation.h"
+
+1411324509 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /animation.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<string>
+	"inputmanager.h"
+
+1411329137 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /fadeanimation.cpp
+	"fadeanimation.h"
+
+1411329170 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /fadeanimation.h
+	"animation.h"
+
+1411326447 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /filemanager.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1411332623 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /filemanager.cpp
+	"filemanager.h"
+
+1411346457 source:/home/arubi/Documents/CodeBlocks/Somnus_Paralysis /menumanager.cpp
+	"menumanager.h"
+
+1411345655 /home/arubi/Documents/CodeBlocks/Somnus_Paralysis /menumanager.h
+	"animation.h"
+	"fadeanimation.h"
+	"filemanager.h"
+	"sstream"
+	"inputmanager.h"
+	<allegro5/allegro.h>
+	<vector>
+	<string>
+
